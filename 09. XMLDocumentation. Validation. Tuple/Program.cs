@@ -49,7 +49,7 @@ namespace _09.XMLDocumentation.Validation.Tuple
         
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello world");
 
             Console.Read();
         }
