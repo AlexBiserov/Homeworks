@@ -34,6 +34,7 @@ namespace Tuple
             return new { a = 0, b = 10 };
         }
 
+        //Return tuple
         static (int sum, int count) SumArray(int[] arr)
         {
             return (arr.Sum(), arr.Length);
