@@ -69,6 +69,7 @@ namespace Tuple
             Console.WriteLine($"Sum = {res.sum}");
             Ex((nums, "Array"));*/
 
+            //Коллекция людей
             List<Person> people = new List<Person>
             {
                 new Person { Age = 20, Marks = new int[] { 5, 1, 2, 4, 4 }, Name = "Вася" },
