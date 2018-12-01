@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_09.XMLDocumentation.Validation.Tuple</name>
+    </assembly>
+    <members>
+        <member name="M:_09.XMLDocumentation.Validation.Tuple.Distance.KilometresToMiles(System.Double)">
+            <summary>
+            Converts kilometres to miles
+            </summary>
+            <param name="kilometres">
+            kilometres
+            </param>
+            <exception cref="T:System.Double">ArgumentException</exception>
+            <returns>Returns miles(double)</returns>
+        </member>
+        <member name="M:_09.XMLDocumentation.Validation.Tuple.Distance.MilesToKilometres(System.Double)">
+            <summary>
+            Converts miles to kilometres
+            </summary>
+            <param name="miles">
+            miles
+            </param>
+            <exception cref="T:System.Double">ArgumentException</exception>
+            <returns>Returns kilometres(double)</returns>
+        </member>
+    </members>
+</doc>

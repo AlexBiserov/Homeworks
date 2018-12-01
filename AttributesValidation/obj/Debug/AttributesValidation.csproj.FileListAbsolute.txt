@@ -1,0 +1,7 @@
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\bin\Debug\AttributesValidation.exe.config
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\bin\Debug\AttributesValidation.exe
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\bin\Debug\AttributesValidation.pdb
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\obj\Debug\AttributesValidation.csprojAssemblyReference.cache
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\obj\Debug\AttributesValidation.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\obj\Debug\AttributesValidation.exe
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\AttributesValidation\obj\Debug\AttributesValidation.pdb

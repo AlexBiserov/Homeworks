@@ -1,0 +1,8 @@
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\bin\Debug\_09.XMLDocumentation.Validation.Tuple.exe.config
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\bin\Debug\_09.XMLDocumentation.Validation.Tuple.exe
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\bin\Debug\_09.XMLDocumentation.Validation.Tuple.pdb
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\obj\Debug\09. XMLDocumentation. Validation. Tuple.csprojAssemblyReference.cache
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\obj\Debug\09. XMLDocumentation. Validation. Tuple.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\obj\Debug\_09.XMLDocumentation.Validation.Tuple.exe
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\obj\Debug\_09.XMLDocumentation.Validation.Tuple.pdb
+C:\Users\us\Desktop\C#\09. XMLDocumentation. Validation. Tuple\09. XMLDocumentation. Validation. Tuple\bin\Debug\documentation.xml
